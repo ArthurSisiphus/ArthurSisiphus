@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  There actually aren’t “57 varieties” of Heinz ketchup, and never were. Company founder H.J. Heinz thought his product should have a number, and he liked 57. Hint: Hit the glass bottle on the “57,” not the bottom, to get the ketchup to flow.
 -->
 
-(![image](https://github.com/ArthurSisiphus/ArthurSisiphus/assets/140829671/ddb824d9-bfc2-4588-a973-8e228fc60fad)
+![image](https://github.com/ArthurSisiphus/ArthurSisiphus/assets/140829671/ddb824d9-bfc2-4588-a973-8e228fc60fad)
